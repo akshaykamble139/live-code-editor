@@ -1,0 +1,1 @@
+The Live Code Editor with Instant Preview is a web-based tool that allows users to write and edit HTML, CSS, and JavaScript code in real time. As users type, the output is instantly rendered in a preview window without requiring manual refresh. 
